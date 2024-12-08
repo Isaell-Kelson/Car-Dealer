@@ -51,10 +51,3 @@ Ensure that you have the following installed:
     ```
 
    Your application will be running at [http://localhost:3000](http://localhost:3000).
-
-### Technologies Stack
-
-- React: JavaScript library for building user interfaces.
-- Next.js: React framework for server-side rendering (SSR) and static site generation (SSG).
-- Tailwind CSS: Utility-first CSS framework for rapid styling.
-- Axios: Promise-based HTTP client for making API requests.
